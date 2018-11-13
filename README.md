@@ -4,8 +4,16 @@ This repository contains the programming assignments I have completed in Courser
 
 In this Java GUI project I have programmed in Eclipse using [Unfolding Maps](http://unfoldingmaps.org/javadoc/) and [Processing](https://processing.org/reference/) libraries. The following functions are implemented:
 
-* Connect to Google Maps and display the maps in GUI
-* Mark the earthquake points with different size/form to differentiate their magnitude/date on Google world map 
+* Read live RSS earthquake data on [USGS](https://www.usgs.gov/) and visualize them on Google Maps 
+* Create features/methods for classes of earthquake/city/marker...
+* Mark the earthquakes on the map with different shape/color to differentiate their depth/location
 * Build event handlers to respond to graphical user input
+* Display airport locations and life expectancy of each country on the map
+
+
+I find this project is a very good practice of object oriented programming as well as data structure, because duringthis project I was always using classes, heritance, polymorphism, overriding, overloading, lists, array, memory models:)
+
+Here is a photo of the effect of this GUI (earthquake data visualization)
+
 
 
