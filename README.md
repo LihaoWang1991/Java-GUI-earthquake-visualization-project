@@ -14,6 +14,7 @@ In this Java GUI project I have programmed in Eclipse using [Unfolding Maps](htt
 I find this project is a very good practice of object oriented programming as well as data structure, because during this project I was always using classes, heritance, polymorphism, overriding, overloading, lists, arrays, memory models, etc.
 
 Here is a photo of the effect of this GUI (earthquake data visualization)
+
 ![](https://github.com/LihaoWang1991/Java-GUI-earthquake-visualization-project/blob/master/Images/GUI-effect.PNG)
 
 
